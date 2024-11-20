@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	padding:0px;
+	margin:0px;
+	background-image:url(../images/bg.jpg);
+	background-repeat: repeat-x;
+}
+ul,dl,dd,h1,h2,h3,h4,h5,h6,form,p { padding:0; margin:0;}
+ul{ list-style:none;}
+img{ border:0;}
+#password{width:183px}
+.contain{ width:1003px; margin:0 auto; background-image:url(../images/Login-bg.jpg); height:586px;}
+
+.login{ padding-top:280px; width:425px; float:right;}
+.login ul li{ line-height:43px; color:#666; font-size:14px; margin-bottom:20px;}
+
+.login-one{ background-image:url(../images/Login1.jpg); padding-left:50px;height:41px; width:217px; border:0px;}
+
+.login-two{ background-image:url(../images/register1.jpg); padding-left:50px;height:41px; width:217px; border:0px;}
+
+.reg{width:1003px; margin:0 auto; background-image:url(../images/reg.jpg); height:586px;}
+
+.reg-b{padding-top:240px; width:415px; float:right;}
+
+.box{ background-color:#e4e4e4; border:1px #b9b9b9 solid; line-height:30px; color:#666; height:30px;}
+
+.text1{ font-size:14px; color:#333;  line-height:40px; text-align:right;}
+
+
+
+
+
